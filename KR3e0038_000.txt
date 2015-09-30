@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 婦人大全良方
+#+DATE: 2015-08-24 23:05:21.262923
+#+PROPERTY: ID KR3e0038
+#+PROPERTY: BASEEDITION WYG    
